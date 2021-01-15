@@ -1,0 +1,126 @@
+body{
+background: url(https://i.ytimg.com/vi/KQ9noqmLLgM/maxresdefault.jpg) no-repeat center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover;
+    }
+#fondo{
+    background-color: #BDBDBD;
+    width: 1300px;
+    border-radius: 20px;
+    }
+#contenido{
+    background-color: white;
+    border-radius: 10px;
+}
+p{
+    font-size: 22px;
+    color: #1C1C1C;
+}
+#contenidouno{
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    -webkit-transition:250ms ease;
+	-o-transition:250ms ease;
+	transition:250ms ease ;
+}
+#contenidouno:hover{
+    background-color: #BDBDBD;
+    
+}
+#contenidodos{
+    background-color: white;
+    width: 215px;
+    height: 215px;
+    border-radius: 10px;
+    -webkit-transition:250ms ease;
+	-o-transition:250ms ease;
+	transition:250ms ease ;
+}
+#contenidodos:hover{
+    background-color: #DF013A;
+    width: 215px;
+    height: 215px;
+}
+#contenidotres{
+    background-color: white;
+    width: 215px;
+    height: 215px;
+    border-radius: 10px;
+    -webkit-transition:250ms ease;
+	-o-transition:250ms ease;
+	transition:250ms ease ;
+}
+#contenidotres:hover{
+    background-color: #01DF3A;
+    
+}
+#contenidocuatro{
+   background-color: white;
+    width: 215px;
+    height: 215px;
+    border-radius: 10px;
+    -webkit-transition:250ms ease;
+	-o-transition:250ms ease;
+	transition:250ms ease ;
+    
+}
+#contenidocuatro:hover{
+    background-color: #FF4000;
+}
+#contenidocinco{
+   background-color: white;
+    width: 215px;
+    height: 215px;
+    border-radius: 10px;
+    -webkit-transition:250ms ease;
+	-o-transition:250ms ease;
+	transition:250ms ease ;
+    
+}
+#contenidocinco:hover{
+    background-color:blueviolet;
+}
+#contenidoseis{
+   background-color: white;
+    width: 215px;
+    height: 215px;
+    border-radius: 10px;
+    -webkit-transition:250ms ease;
+	-o-transition:250ms ease;
+	transition:250ms ease ;
+    
+}
+#contenidoseis:hover{
+    background-color:darkorange;
+    }
+#imagen{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    -webkit-transition:250ms ease;
+	-o-transition:250ms ease;
+	transition:250ms ease ;
+}
+#imagen:hover{
+    width: 200px;
+    height: 200px;
+}
+#imagendos{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    -webkit-transition:250ms ease;
+	-o-transition:250ms ease;
+	transition:250ms ease ;
+}
+#imagendos:hover{
+    width: 200px;
+    height: 200px;
+}
+#tablafont{
+ width: 1300px;
+}
